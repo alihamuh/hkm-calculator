@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2b2929</color>
+    <color name="colorPrimaryDark">#01b4fa</color>
+    <color name="colorAccent">#54565e</color>
+    <color name="textColor">#ffffff</color>
+    <color name="subTextColor">#4F4F4F</color>
+    <color name="consloeColor">#4F4F4F</color>
+</resources>
